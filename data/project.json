@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "naponigore",
+      "avatar_url": "https://avatars.githubusercontent.com/u/186634111?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "naponigore",
     "is_private": false,
@@ -144,6 +150,7 @@
       ]
     },
     "created_at": "2024-11-04T20:42:22.481Z",
-    "updated_at": "2024-11-04T20:42:22.481Z"
+    "updated_at": "2024-11-04T20:42:22.481Z",
+    "generate_pages_site": true
   }
 }
